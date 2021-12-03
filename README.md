@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# MAGD 150 Asignments
 
-You can use the [editor on GitHub](https://github.com/JakWanek/MAGD-150-Assignments/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+In this reepsitory, I have five asingments from the class MAGD 150
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Lab 1
 
-### Markdown
+[This asignment](https://github.com/JakWanek/MAGD-150-Assignments/commit/3d0f16d1d7727db653a161310e9b34384c3e7d46) generates two buildings with a pont in the middle with a blue sky, and green grass.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Lab 2
 
-```markdown
-Syntax highlighted code block
+[This asignment](https://github.com/JakWanek/MAGD-150-Assignments/commit/2f0337b225cb2c5ed61b45dc4d30c63563cb4e8c) In this you will find a alien in a space ship with two shaps floating near by.
 
-# Header 1
-## Header 2
-### Header 3
+#### Lab 3
 
-- Bulleted
-- List
+[This asignment](https://github.com/JakWanek/MAGD-150-Assignments/commit/79e1593918b44668e8d58685d38b5d9f3a335e0f) For this asignment I made some circles that are animated to move around based on your mouse and a animation code I did.
 
-1. Numbered
-2. List
+##### Lab 4
 
-**Bold** and _Italic_ and `Code` text
+[This asignment](https://github.com/JakWanek/MAGD-150-Assignments/commit/d865a3c1a7ebbffe56331df5729ee5e3643983ee) You will find a pizza where you can put pepperoni on it with the mouse.
 
-[Link](url) and ![Image](src)
-```
+###### Final Project
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JakWanek/MAGD-150-Assignments/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[This asignment](https://github.com/JakWanek/MAGD-150-Assignments/commit/a70dae5735936e946994fa6cf0686fc0cadbd786) you will see three color choices where you can choose to draw with them on the canvas below, and if you dont like it can be cleared with the clear button. If you like it though then you can save it by pressing the S button on the keyboard.
